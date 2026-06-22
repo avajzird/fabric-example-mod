@@ -1,0 +1,6 @@
+{
+  "command": "sell all",
+  "delaySeconds": 300,
+  "toggleKey": "key.keyboard.f8",
+  "startEnabled": false
+}
