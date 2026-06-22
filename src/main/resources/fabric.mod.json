@@ -1,11 +1,11 @@
 {
 	"schemaVersion": 1,
-	"id": "modid",
+	"id": "simplemacro",
 	"version": "${version}",
-	"name": "Example Mod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "Simple Macro",
+	"description": "Simple Macro Mod for Fabric 26.1.2",
 	"authors": [
-		"Me!"
+		"zirD"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
